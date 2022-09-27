@@ -56,7 +56,7 @@ CREATE TABLE peca (
 	IdPeca INT AUTO_INCREMENT PRIMARY KEY,    
 	Nome VARCHAR(45) NOT NULL,
     Modelo VARCHAR(45) NOT NULL,
-    Ano DATE NOT NULL
+    Ano INT NOT NULL
 );
 
 -- Criar Tabela Serviço
@@ -120,3 +120,5 @@ CREATE TABLE servicosOS (
 	IdSServicos INT,    
 	IdSOrdemServico INT
 );
+
+SHOW TABLES;
