@@ -1,4 +1,4 @@
--- Criação do Banco de Dados para o cenário da oficina 
+-- Criação do Banco de Dados para o cenário da oficina mecânica
 CREATE DATABASE oficina;
 USE oficina;
 

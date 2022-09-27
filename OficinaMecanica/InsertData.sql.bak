@@ -1,4 +1,4 @@
--- inserção de dados oficina
+-- inserção de dados
 USE oficina;
 
 -- IdOrdemServico, Numero, DataEmissao, Valor, StatusOS, DataConclusao
